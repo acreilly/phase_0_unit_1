@@ -5,4 +5,6 @@
 * Did you have an "aha" moments or were any concepts solidified?
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
 
-<!-- Add your reflection here. Remove the comment markers -->
+* Everything makes sense.
+* I know HTML and CSS pretty well. HTML5 and CSS3 I understand but I would need to review and study a bit when it comes to animating and canvas elements.
+* I did not know that _blank meant open a new window.
