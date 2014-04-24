@@ -6,4 +6,7 @@
 * Did you have an "aha" moments or were any concepts solidified?
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
 
-<!-- Add your reflection here. Remove the comment markers -->
+* I learned about DNS. I knew a lot of the information in this secion before.
+* You're home page is always saved as index.html
+* It was a lame webpage.
+* Not really, I've been working with HTML and CSS for years.
