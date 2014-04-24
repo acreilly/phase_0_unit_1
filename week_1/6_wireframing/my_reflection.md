@@ -10,4 +10,11 @@
 * Which parts of the challenge did you enjoy?
 * Which parts of the challenge did you find tedious?
 
-<!-- Add your reflection here. Remove the comment markers -->
+* I have done wireframing before, just never knew there was a name for it. I enjoyed reading about it and all the sites that are available.
+* Yes of course. Thats why I went to school for design. I always find it fun.
+* None
+* None
+* None
+* Confident
+* Wireframing the sites
+* None
