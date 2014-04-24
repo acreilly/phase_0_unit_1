@@ -9,6 +9,9 @@
 * How confident are you with each of the Learning Competencies for this challenge? 
 * Which parts of the challenge did you enjoy?
 * Which parts of the challenge did you find tedious?
+* 
+
+
 
 * I have done wireframing before, just never knew there was a name for it. I enjoyed reading about it and all the sites that are available.
 * Yes of course. Thats why I went to school for design. I always find it fun.
