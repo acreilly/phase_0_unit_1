@@ -2,7 +2,7 @@
 
 1. Copy your response to <a href="https://github.com/Devbootcamp/phase_0_unit_1/tree/master/week_1/6_Get_to_know_your_group" target="_blank"> Get to know your group</a> in this file.
 
-Hello, my name is Allie Reilly. I am fron New Jersey. I chose my favorite websites, just because I use them the most, facebook.com, netflix.com, and nettus.com. My learning style is kinestetic and visual.
+Hello, my name is Allie Reilly. I am fron New Jersey. I chose my favorite websites, just because I use them the most, facebook.com, netflix.com, and nettus.com. My learning style is kinesthetic and visual.
 
 
 
