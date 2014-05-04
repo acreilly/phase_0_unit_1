@@ -10,7 +10,7 @@ Discuss the following:
 * What was your process? What worked and didn't work?
   - I wireframed then coded. I wanted it to be a one page deal, no scrolling down, keeping the body a scroll while the header and footer remain. I was trying to add the awesome fonts for my facebook, linkedin, and github page but unfortunately they wouldn't show up on the page and I couldn't figure out how to get them to.
 * What would you like to add or change about the site next?
-  - I would like to add the font awesome icons for links. I would like to figure out why it won't show up.
+  - I would like to add the font awesome icons for links. I would like to figure out why it won't show up. I also don't like the amount of whitespace I have on the right hand side. I would like to restyle the website to make it look even without streaching the body to full extent.
 * Was it difficult to apply the material you learned? Did you find anything in your research you thought was super cool?
   -I found it relatively easy. I had to research how to add the | between the navigation elements.
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
