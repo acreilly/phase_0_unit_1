@@ -1,6 +1,7 @@
 #### Include an inline screenshot of your codeschool's points from the profile page:
 
 <!-- Modify the Markdown to include your answers. Don't delete the questions! -->
+http://min.us/i/CiuXH6ZJFaK7
 
 ##QUIZ
 * Explain which tabs support the following actions and how.
