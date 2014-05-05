@@ -3,42 +3,45 @@ Define the following commands and describe how they work/what they do.
 
 
 #### add
-<!-- Your defnition here -->
+adds file to the staging area and allows them to be tracked by git
 
 #### branch
-<!-- Your defnition here -->
+creates a copy
 
 #### checkout
-<!-- Your defnition here -->
+Allows you to go back to how the files were before the file you designate as unwanted changes. Also allows you to switch branches.
 
 #### clone
-<!-- Your defnition here -->
+copies project
 
 #### commit
-<!-- Your defnition here -->
+to store changes made to staged area. You have to describe changes in quotes.
+commit -m "gfdgfdg"
 
 #### fetch
-<!-- Your defnition here -->
+like git pull & git merge put together
 
 #### log
-<!-- Your defnition here -->
+lets you view your past commits
 
 #### merge
-<!-- Your defnition here -->
+copy file to another file
 
 #### pull
-<!-- Your defnition here -->
+"pulls" or takes changes that have been put onto github and updates your local files
 
 #### push
-<!-- Your defnition here -->
+'pushes' or puts commited files & changes onto github (sync)
 
 #### reset
-<!-- Your defnition here -->
+unstages files from git - doesn't delete just stops tracking them 
 
 #### rm
-<!-- Your defnition here -->
+remove
+rm 'gfdgdfg.txt'
 
 #### status
+sees what the current state of the project is at
 
 
 ## Release 4: Git Workflow
