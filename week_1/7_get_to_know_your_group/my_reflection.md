@@ -9,9 +9,15 @@ https://github.com/acreilly/phase_0_unit_1/blob/master/week_1/7_get_to_know_your
 https://github.com/acreilly/acreilly.github.io
 https://github.com/acreilly/acreilly.github.io/blob/master/unit1_projects/wireframe_sites.html
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Take a moment to reflect on reading other people's responses regarding their fears about DBC. How did that make you feel? Did you feel better, worse, or something else all together? How has your experience this week influenced your feelings? All feelings are welcome and ok. Just take a moment to think about it and write it down. 
 
+=======
+
+2. Take a moment to reflect on reading other people's responses regarding their fears about DBC. How did that make you feel? Did you feel better, worse, or something else all together? How has your experience this week influenced your feelings? All feelings are welcome and ok. Just take a moment to think about it and write it down. 
+
+>>>>>>> FETCH_HEAD
 =======
 
 2. Take a moment to reflect on reading other people's responses regarding their fears about DBC. How did that make you feel? Did you feel better, worse, or something else all together? How has your experience this week influenced your feelings? All feelings are welcome and ok. Just take a moment to think about it and write it down. 
