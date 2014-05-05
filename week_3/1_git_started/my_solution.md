@@ -49,5 +49,10 @@ sees what the current state of the project is at
 - Push files to a remote repository
 - Fetch changes
 - Commit locally
+- 
+
+git push -u origin master
+git fetch master
+git commit -m "These are my changes description"
 
 ## Release 5: Reflection
