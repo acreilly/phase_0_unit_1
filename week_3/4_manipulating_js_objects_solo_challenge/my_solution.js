@@ -15,40 +15,71 @@ var terah = {
 /* Pseudocode Section - write pseudocode for each challenge below.
 1. Define a variable adam and use object literal notation to assign this variable 
    the value of a JavaScript Object object with no properties.
+   
+create a variable called adam and set it to a new object
 
 2. Give adam a name property with the value "Adam".
 
+create a name property and set it to "Adam" in the adam object
+
 3. Add a spouse property to terah and assign it the value of adam.
+
+create a spouse property and set it to adam in terah object
 
 4. Change the value of the terah weight property to 125.
 
+set weight to 125 in terah object
+
 5. Remove the eyeColor property from terah.
 
+remove eyecolor property from terah object with pop method
+
 6. Add a spouse property to adam and assign it the value of terah.
+
+create spouse property in adam object and set it to terah
 
 7. Add a children property to terah and and use object literal notation to assign 
    this variable the value of a JavaScript Object object with no properties
 
+create children property in terah object and set it to blank object.
+
 8. Add a carson property to the value of the terah children property and assign it 
   the value of an object with the property name with a value of "Carson".
 
+ In the blank children object in terah object create a new property called carson and carson will 
+  hold a property called name with the value "Carson"
+
 9. Add a carter property to the value of the terah children property and assign it 
    the value of an object with the property name with a value of "Carter".
+   
+   in children object in terah object create a new property called carter and create property name within called Carter
 
 10. Add a colton property to the value of the terah children property and assign it 
     the value of an object with the property name with a value of "Colton".
+    
+     in children object in terah object create a new property called colton and create property name within called Colton
 
 11. Add a children property to adam and assign it the value of terah children.
 
+create children property with in adam and set it to terah object children object
 
 */
 
 // __________________________________________
 // Write your code below.
 
-
-
-
+var adam = {};
+adam.name = "Adam";
+terah.spouse = adam;
+terah.weight = 125;
+//terah.pop();
+delete terah.eyeColor;
+adam.spouse = terah;
+terah.children = {};
+terah.children.carson = {name: "Carson"};
+terah.children.carter = {name: "Carter"};
+terah.children.colton = {name: "Colton"};
+adam.children = terah.children;
 
 
 
