@@ -86,12 +86,20 @@ adam.children = terah.children;
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
-// 
-// 
+// What parts of your strategy worked? What problems did you face?
+// Everything worked, except I thought I could use pop to remove the last property in terah, but realized I couldn't
+// What questions did you have while coding? What resources did you find to help you answer them?
+//  I had to look up how to remove eyeColor from terah. I used google
+// What concepts are you having trouble with, or did you just figure something out? If so, what?
+//  none, prety understandable
+// Did you learn any new skills or tricks?
+// I learned about delete. Didn't know that was possible
+// How confident are you with each of the Learning Competencies?
+// Very confident
+// Which parts of the challenge did you enjoy?
+//  This was fun just working in javascript, its been awhile since I have
+// Which parts of the challenge did you find tedious?
+// none
 
 
 // __________________________________________
