@@ -206,4 +206,21 @@ this.attackXY(47,30);
 
 
 // Reflection:
-// Write your reflection here.
+// // Write your reflection here.
+// What parts of your strategy worked? What problems did you face?
+// I only faced problems with the artillary because I skipped through the video
+
+// What questions did you have while coding? What resources did you find to help you answer them?
+// None
+
+// What concepts are you having trouble with, or did you just figure something out? If so, what?
+//I found this to be an odd tutorial, interesting way to do it. I just felt like it should have gone in more depth. Not just calling the functions, but writing them too. 
+// Did you learn any new skills or tricks?
+// No
+
+// How confident are you with each of the Learning Competencies?
+//Confident
+// Which parts of the challenge did you enjoy?
+//It was an interesting way to teach
+// Which parts of the challenge did you find tedious?
+// Just the mobile artillary one. it took me a bit.
