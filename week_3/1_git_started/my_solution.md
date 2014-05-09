@@ -56,3 +56,22 @@ git fetch master
 git commit -m "These are my changes description"
 
 ## Release 5: Reflection
+
+What parts of your strategy worked? What problems did you face?
+it all worked, didn't have any problems. It was good to learn.
+
+What questions did you have while coding? What resources did you find to help you answer them?
+None
+
+What concepts are you having trouble with, or did you just figure something out? If so, what?
+I guess I am just wondering, if you have the app, then does it matter if you know how to work with git in the terminal?
+
+Did you learn any new skills or tricks?
+I learned in depth how to use git in terminal
+How confident are you with each of the Learning Competencies?
+decently confident, may need to look up references here and there
+
+Which parts of the challenge did you enjoy?
+learning in depth
+Which parts of the challenge did you find tedious?
+nothing
