@@ -81,11 +81,17 @@ In this code we use a broad If, Else If, Else If statement and inside the statem
 
 
 // Reflection
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
+// What parts of your strategy worked? What problems did you face?
+// We had trouble coming up with a game at first. Once we did though it flowed. My node hasn't been working so we couldn't test it out, but realized later we could use the console.
+// What questions did you have while coding? What resources did you find to help you answer them?
+// We weren't sure if we could use else when it was the last one since it would take care of anything other than, but we decided just to stick with else if.
+// What concepts are you having trouble with, or did you just figure something out? If so, what?
+//  My node wasn't working. I downloaded it correctly, I'm not sure what is wrong.
+// Did you learn any new skills or tricks?
+// Just got a better understanding how to write javascript
+// How confident are you with each of the Learning Competencies?
+// confident
+// Which parts of the challenge did you enjoy?
+// having out game work
+// Which parts of the challenge did you find tedious?
+// my node not working
