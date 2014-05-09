@@ -72,4 +72,17 @@ jimCarrey.showQuoteMovie()
 clientList
 
 //  Your Reflection:
-
+// What parts of your strategy worked? What problems did you face?
+// We didn't seem to have a driver or navigator, we did it equally which at times was a bit difficult.
+// What questions did you have while coding? What resources did you find to help you answer them?
+// I felt like in some sections the directions were not clear, but our guide helped us understand.
+// What concepts are you having trouble with, or did you just figure something out? If so, what?
+// My guide suggested I look into closures and constructers to get a better understanding
+// Did you learn any new skills or tricks?
+// We learned how to have the client list update when a new client is added.
+// How confident are you with each of the Learning Competencies?
+//  Decently confident
+// Which parts of the challenge did you enjoy?
+// I thought it was really cool figuring out how to update the client list. That could be a very beneficial thing to know for a coder.
+// Which parts of the challenge did you find tedious?
+// none
