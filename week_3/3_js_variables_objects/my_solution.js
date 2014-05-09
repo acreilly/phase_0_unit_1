@@ -42,8 +42,20 @@ var members = ["John", , ,"Mary"];
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
 // 
-// 
-// 
+// What parts of your strategy worked? What problems did you face?
+//  I had originally set the secret number to 2 but it didn't work so i then changed it to 7 
+// What questions did you have while coding? What resources did you find to help you answer them?
+//  I didn't feel like the directions were clear, I had to view anothers work to understand what I was supposed to do.
+// What concepts are you having trouble with, or did you just figure something out? If so, what?
+//  None
+// Did you learn any new skills or tricks?
+//  nope
+// How confident are you with each of the Learning Competencies?
+// Confident
+// Which parts of the challenge did you enjoy?
+//  Debugging was interesting. I used the console to test
+// Which parts of the challenge did you find tedious?
+// None
 // 
 // 
 // 
